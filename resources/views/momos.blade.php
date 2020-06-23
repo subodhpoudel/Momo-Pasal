@@ -17,12 +17,11 @@
             @endif
 
             <div class="content">
-                <img src="/img/momo1.png" height="500px" width="500px">
                 <div class="title m-b-md">
-                    Momo Pasal <br>
-                   <span id="pkr"> Pokhara's best Momo </span> 
+                    Momos
+                    
                 </div>
 
             </div>
         </div>
-@endsection  
+@endsection        
