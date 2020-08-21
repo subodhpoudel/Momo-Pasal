@@ -22,6 +22,8 @@
                     Momo Pasal <br>
                    <span id="pkr"> Pokhara's best Momo </span> 
                 </div>
+                <p class="msg">{{ session('msg') }}</p>
+                <a href="/momos/create">Order Momo</a>
 
             </div>
         </div>
